@@ -2,14 +2,14 @@
 
 #=========================================================================
 #                                                                       
-# iacUsers.sh - Script que provisiona usuários
+# iacUsers.sh - Script que provisiona infraestrutura de usuários
 #                                                                       
 # Autor: Igor Pestana (igorspestana@gmail.com)
 # Data Criação: 23/08/2022
 #                                                                       
-# Descrição: Provisiona usuários, grupos e define as permissões
-#            dos diretórios			                                       
-#                                                                       
+# Descrição: Provisiona infraestrutura de usuários, grupos de usuários, 
+#            diretórios e permissões dos diretórios			                                       
+#                                                                          
 # Exemplo de uso: ./iacUsers.sh                                
 #                                                                       
 #=========================================================================
